@@ -1,4 +1,5 @@
 import time
+
 def execute(function):
     def work():
         start_time=time.time()
